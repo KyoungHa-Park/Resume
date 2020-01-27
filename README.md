@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+## 자기소개
 
-You can use the [editor on GitHub](https://github.com/KyoungHa-Park/khpark.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!-- <img alt="깃헙 프로필 사진" src="http://" width="200"> -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- e-mail : xyzmagic@naver.com 
+- github : github.com/KyoungHa-Park
 
-### Markdown
+데이터 분석은 비지니스와 이용자 이해를 바탕으로, 개선안을 제안하는 일이라고 생각합니다. 사소한 내용에서  다양한 가치를 연결해 나가는 것이 데이터 분석이라고 전제하고 일하고 있습니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 경력 
++ 매일유업
+  + 기간 : 14.01 ~ 재직중
+  + 업무 : 데이터 분석 / 개인정보 관리 / 외식관계사 프로모션 운영
++ 더비앤아이(전임)
+  + 기간 : 13.02~13.06
+  + 업무 : 공공기관 컨설팅 / 관련 보고서 작성
++ 한국은행(계약직)
+  + 기간 : 11.03~13.01
+  + 업무 : 산업연관표 작성인력 관리 / 산업연관표 보고서 작성 보조(자료수집 등)
 
-```markdown
-Syntax highlighted code block
+## 보유역량
++ 데이터 분석
+  + 데이터 분석 tool로 현재는 Python을 주로 이용합니다.
+  + sickit-learn을 활용한 차원축소/분류을 진행할 수 있습니다.
+  + 데이터 시각화 비교를 위해, 간혹 R 을 이용합니다.
+  + DB 활용을 위한 SQL에 익숙합니다.
+  + Web Crawling을 위한 HTML 내용을 이해하고 있습니다.
++ 확률/통계
+  + 데이터 마이닝 및 차원축소와 같은 방법을 주로 실무에 활용하고 있습니다.
+  + 확률분포에 대한 수리적인 접근을 하고 있으며, 딥러닝 관련 수리적인 증명에 흥미가 있습니다.
++ 커뮤니케이션
+  + 다른 사례 및 단어 사용을 통해, 상호간의 이해 수준을 일치시키는 방식으로 커뮤니케이션을 하고 있습니다.
+  + 대면 협의를 통해 업무간의 공감대를 충분히 형성한 다음, 니즈 발굴을 끌어내는 방식을 선호합니다.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 프로잭트(분석 관련)
+#### 프로잭트명
+`소속, 담당업무, 기간`
 
-1. Numbered
-2. List
+설명
+  + 결과물1
+  + 결과물2
 
-**Bold** and _Italic_ and `Code` text
+#### 홈플러스 유통 데이터 분석
+`매일유업, 데이터 분석 및 내/외 커뮤니케이션, 14.09 ~ 15.08(1년) `
 
-[Link](url) and ![Image](src)
-```
+1년간 홈플러스의 치즈 Category에 대한 매출내용을 열람하는 계약 체결을 시작으로, 사내 프로잭트 형식으로 진행되었습니다. 데이터 설정/자료추출/분석과 같은 분석 영역과 더불어, 홈플러스 바이어/던험비/내부 영업팀/내부 마케팅팀등의 커뮤니케이션 업무까지 수행하였습니다. 매월 작성된 분석내용 중, 주요 결과물은 아래와 같습니다.
+  + 결과물1 : 치즈 매출과 외식 CIS 지수의 동행성 확인
+  + 결과물2 : 치즈 Brand Zoneing에 대한 가설확인
+  + 결과물3 : 시즌한정 패키지의 마케팅 효과 확인
+  
+#### 통합멤버십 2차 프로잭트
+`매일유업, 진행관리 및 데이터 분석, 14.09~15.08`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+설명
+  + 결과물1
+  + 결과물2
 
-### Jekyll Themes
++ 유통 데이터 분석 진행/보고서 작성 ()
+  + 통합멤버십 프로잭트(1차 : 16.04~16.12 / 2차 : 17.02 ~ 17.07) 
+  + 외식 관계사 멤버십 프로모션 운영(17.08 ~ 현재)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KyoungHa-Park/khpark.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 자기부상열차 해외판매 전략 보고서 작성
+`(더비비앤아이, 보고서 작성 전반, 13.02~13.06)`
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 기타 사항
+ + AI NLP Lab (2기, )
+   + 
+ + 성균관대학교 통계학과 졸업(2004.03 ~ 2011.02)
+   + 확률론과 더불어, 선형대수학 및 미적분에 대한 수강 이력 있음.
+   + 데이터마이닝 및 시뮬레이션에 대한 수업을 우수한 성적으로 수강함.
+
+---
+
+## 자기소개
+
+#### 데이터 분석의 계기는?
+#### 커리어 방향은?
+
