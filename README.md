@@ -1,5 +1,6 @@
-## 박경하 / Park KyoungHa
+## 박경하 / Park Kyoung Ha
 <!-- <img alt="깃헙 프로필 사진" src="https://avatars0.githubusercontent.com/u/31813225?s=460&v=4" width="200"> -->
+
 ### Data Analyst : Python, R
 + e-mail : xyzmagic@naver.com 
 + github : https://github.com/KyoungHa-Park
