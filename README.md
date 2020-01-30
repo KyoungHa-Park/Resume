@@ -18,7 +18,7 @@
   + Machine learning : sickit-learn을 활용한 데이터 차원축소/분류 가능.
   + Deep learning : Tensorflow를 활용하여, NLP 분석(맥락찾기) 및 분류(감성분류) 가능.
   + Web Crawling : selenium 및 beautifulsoup을 이용하여, iframe 환경에서 정보 수집 가능.
-  + DB handling : 로그자료 기반, Retenation(cohort 분석) 및 AARRR 운영 가능
+  + DB handling : 로그자료 기반, Retenation(cohort 분석) 자료작성 및 활용 가능
   + Data pipline : BigQuery를 통한 자료 관리 가능
 + 그 외 : 개인정보 관리
   + 정통망법 및 개인정보법에 기반 대외기관 문제/감사에 대응/방어함
